@@ -2,7 +2,7 @@
 ## Overview
 + `.\unrealcv` is a plugin for UE project. Copy the folder `.\unrealcv` to your project under folder `Plugins`.
 
-+ `unrealcv.py` shows how to control UE in Python. Read the file carefully to see how we use UnrealCV in our project. 
++ `unrealcv_basic.py` shows how to control UE in Python. Read the file carefully to see how we use UnrealCV in our project. 
 ![alt text](image.png)
 
 ## How to Generate a Blueprint
